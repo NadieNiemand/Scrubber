@@ -1,0 +1,16 @@
+C:\Users\migue\source\repos\Simulador\Simulador\bin\Debug\Simulador.exe.config
+C:\Users\migue\source\repos\Simulador\Simulador\bin\Debug\Simulador.exe
+C:\Users\migue\source\repos\Simulador\Simulador\bin\Debug\Simulador.pdb
+C:\Users\migue\source\repos\Simulador\Simulador\bin\Debug\Simulador.xml
+C:\Users\migue\source\repos\Simulador\Simulador\obj\Debug\Simulador.vbprojAssemblyReference.cache
+C:\Users\migue\source\repos\Simulador\Simulador\obj\Debug\Simulador.Resources.resources
+C:\Users\migue\source\repos\Simulador\Simulador\obj\Debug\Simulador.vbproj.GenerateResource.cache
+C:\Users\migue\source\repos\Simulador\Simulador\obj\Debug\Simulador.vbproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\Simulador\Simulador\obj\Debug\Simulador.exe
+C:\Users\migue\source\repos\Simulador\Simulador\obj\Debug\Simulador.xml
+C:\Users\migue\source\repos\Simulador\Simulador\obj\Debug\Simulador.pdb
+C:\Users\migue\source\repos\Simulador\Simulador\obj\Debug\Simulador.Grafica.resources
+C:\Users\migue\source\repos\Simulador\Simulador\obj\Debug\Simulador.Principal.resources
+C:\Users\migue\source\repos\Simulador\Simulador\obj\Debug\Simulador.Resultado.resources
+C:\Users\migue\source\repos\Simulador\Simulador\obj\Debug\Simulador.EMPAQUES.resources
+C:\Users\migue\source\repos\Simulador\Simulador\obj\Debug\Simulador.Portada.resources

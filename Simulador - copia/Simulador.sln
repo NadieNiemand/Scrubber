@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Simulador", "Simulador\Simulador.vbproj", "{703F7403-0B40-4516-9354-A576517A5A2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{703F7403-0B40-4516-9354-A576517A5A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703F7403-0B40-4516-9354-A576517A5A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{703F7403-0B40-4516-9354-A576517A5A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{703F7403-0B40-4516-9354-A576517A5A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {883A22EF-1667-44FA-9D90-BBBF3A023977}
+	EndGlobalSection
+EndGlobal
